@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZLX_Combo_Editor", "ZLX_Combo_Editor.csproj", "{8C7740BE-D63E-41DF-B330-3197B3C95A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7740BE-D63E-41DF-B330-3197B3C95A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7740BE-D63E-41DF-B330-3197B3C95A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7740BE-D63E-41DF-B330-3197B3C95A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7740BE-D63E-41DF-B330-3197B3C95A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83146637-D983-4CE8-AE5D-BDF0E4364127}
+	EndGlobalSection
+EndGlobal
